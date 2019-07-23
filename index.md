@@ -9,7 +9,7 @@ Aşağıda yer alan dokümanlar [Berk Orbay](http://berkorbay.me/) ile birlikte 
 
 ## Dökümanlar
 
-Gün 1 - Veri Madenciliğine Giriş. (27 Ocak)
+Gün 1 - Veri Madenciliğine Giriş. (22 Temmuz 2019)
 
 + [Veri Madenciliği Nedir?](dokumanlar/dersnotlari/VeriMadenciliği.pdf)
 + [Veri Nedir?](dokumanlar/dersnotlari/VeriNedir.pdf)
