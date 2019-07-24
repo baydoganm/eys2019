@@ -16,3 +16,9 @@ Gün 1 - Veri Madenciliğine Giriş. (22 Temmuz 2019)
 + [Veri Nedir?](dokumanlar/ders_notlari/VeriNedir.pdf)
 + [Boyut Küçültme](dokumanlar/ders_notlari/VeriKüçültme.pdf)
 
+Gün 2 -  R ile Programlamaya Giriş. (22 Temmuz 2019)
+
++ [Başlangıç Kodları - Temel R](kodlar/baslangic.r)
++ [Pi Tahmini Kodları](kodlar/pi_tahmini.r)
++ [Temel Bileşen Analizi Kodları](kodlar/temel_bilesen_analizi.r)
++ [Çok Boyutlu Ölçekleme Kodları](kodlar/mds_analiz.r)
