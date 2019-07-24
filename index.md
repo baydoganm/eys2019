@@ -20,9 +20,10 @@ Gün 2 - R ile Programlamaya Giriş. (23 Temmuz 2019)
 
 + [Başlangıç Kodları - Temel R](kodlar/baslangic.r)
 + [Pi Tahmini Kodları](kodlar/pi_tahmini.r)
-+ [Temel Bileşen Analizi Kodları](kodlar/temel_bilesen_analizi.r)
-+ [Çok Boyutlu Ölçekleme Kodları](kodlar/mds_analiz.r)
++ [Temel Bileşen Analizi Kodları](kodlar/temel_bilesen_analizi.r) [Şarap Kalitesi Verisi](veriler/winequality-white.csv)
++ [Çok Boyutlu Ölçekleme Kodları](kodlar/mds_analiz.r) [Şehirlerarası Karayolu Uzaklıkları Verisi](veriler/InClass_MDS_distance_city.csv)
 
 Gün 3 - Eğitmenli (Supervised) Öğrenme. (24 Temmuz 2019)
 
-+ İstatiksel Öğrenme
++ İstatiksel Öğrenme (Sınıflandırma ve Regresyon) Giriş [İngilizce Doküman](dokumanlar/ders_notlari/istatiksel_ogrenme_ingilizce.pdf)
++ Sınıflandırma ve Regresyon [Boston Ev Fiyatları Verisi](veriler/Housing_Data.zip)
