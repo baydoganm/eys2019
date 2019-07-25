@@ -35,7 +35,7 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 + En Yakın Komşu Yöntemi
 + Karar Ağaçları
 + Topluluk Yöntemleri
-++ Paralel topluluklar
-+++Rastgele (Rassal) Orman
-++ Seri topluluklar
-+++Gradyan Artırma
+	+ Paralel topluluklar
+		+Rastgele (Rassal) Orman
+	+ Seri topluluklar
+		+ Gradyan Artırma
