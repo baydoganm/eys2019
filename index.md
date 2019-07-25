@@ -38,4 +38,7 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 	+ Paralel topluluklar
 		+ Rastgele (Rassal) Orman
 	+ Seri topluluklar
-		+ Gradyan Artırma
+		+ [Gradyan Artırma Kodları](kodlar/gradyan_artirma.r)
+        
+## Faydalı linkler
++ [Makine Öğrenmesi Ders Videoları ve Notları](http://www.veridefteri.com/category/ders/)
