@@ -33,7 +33,7 @@ Gün 3 - Eğitmenli (Supervised) Öğrenme. (24 Temmuz 2019)
 
 Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 + En Yakın Komşu Yöntemi [EYK Sınıflandırma Kodları](kodlar/enyakinkomsu_ecg.r) [ECG Verisi](veriler/ecg_verisi.zip)
-+ Karar Ağaçları
++ Karar Ağaçları [Karar Ağacı Kodları](kodlar/karar_agaci.r)
 + Topluluk Yöntemleri
 	+ Paralel topluluklar
 		+ Rastgele (Rassal) Orman
