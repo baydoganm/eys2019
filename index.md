@@ -39,3 +39,6 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 		+ Rastgele (Rassal) Orman
 	+ Seri topluluklar
 		+ Gradyan Artırma
+        
+## Faydalı linkler
++ [Makine Öğrenmesi Ders Videoları ve Notları](http://www.veridefteri.com/category/ders/)
