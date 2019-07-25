@@ -32,7 +32,7 @@ Gün 3 - Eğitmenli (Supervised) Öğrenme. (24 Temmuz 2019)
 + [Cezalandırmalı Regresyon Kodları](kodlar/cezalandirmali_regresyon.r) 
 
 Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
-+ En Yakın Komşu Yöntemi
++ En Yakın Komşu Yöntemi [EYK Sınıflandırma Kodları](kodlar/enyakinkomsu_ecg.r) [ECG Verisi](veriler/ecg_verisi.zip)
 + Karar Ağaçları
 + Topluluk Yöntemleri
 	+ Paralel topluluklar
