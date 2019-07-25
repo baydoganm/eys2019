@@ -27,3 +27,15 @@ Gün 3 - Eğitmenli (Supervised) Öğrenme. (24 Temmuz 2019)
 
 + İstatiksel Öğrenme (Sınıflandırma ve Regresyon) Giriş [İngilizce Doküman](dokumanlar/ders_notlari/istatiksel_ogrenme_ingilizce.pdf)
 + Sınıflandırma ve Regresyon [Boston Ev Fiyatları Verisi](veriler/Housing_Data.zip)
++ [Doğrusal Regresyon Kodları](kodlar/dogrusal_regresyon.r)
++ [Lojistik Regresyon Kodları](kodlar/lojistik_regresyon.r) 
++ [Cezalandırmalı Regresyon Kodları](kodlar/cezalandirmali_regresyon.r) 
+
+Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
++ En Yakın Komşu Yöntemi
++ Karar Ağaçları
++ Topluluk Yöntemleri
+++ Paralel topluluklar
++++Rastgele (Rassal) Orman
+++ Seri topluluklar
++++Gradyan Artırma
