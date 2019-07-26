@@ -38,7 +38,7 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 	+ Paralel topluluklar
 		+ Rastgele (Rassal) Orman [Rassal Orman Kodları](kodlar/rassal_orman.r)
 	+ Seri topluluklar
-		+ [Gradyan Artırma Kodları](kodlar/gradyan_artirma.r)
+		+ Gradyan Artırma [Gradyan Artırma Kodları](kodlar/gradyan_artirma.r)
 
 Gün 5 - Eğitmenli (Supervised) Öğrenme (Devam) - Eğitmensiz (Unsupervised) Öğrenme. (26 Temmuz 2019)
 		
