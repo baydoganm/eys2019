@@ -26,7 +26,7 @@ Gün 2 - R ile Programlamaya Giriş. (23 Temmuz 2019)
 Gün 3 - Eğitmenli (Supervised) Öğrenme. (24 Temmuz 2019)
 
 + İstatiksel Öğrenme (Sınıflandırma ve Regresyon) Giriş [İngilizce Doküman](dokumanlar/ders_notlari/istatiksel_ogrenme_ingilizce.pdf)
-+ Sınıflandırma ve Regresyon [Türkçe Doküman](dokumanlar/ders_notlari/SınıflandırmaVeRegresyon.pdf) [Boston Ev Fiyatları Verisi](veriler/Housing_Data.zip)
++ Sınıflandırma ve Regresyon [Türkçe Doküman](dokumanlar/ders_notlari/SınıflandırmaVeRegresyon.pdf) ve [Boston Ev Fiyatları Verisi](veriler/Housing_Data.zip)
 + [Doğrusal Regresyon Kodları](kodlar/dogrusal_regresyon.r)
 + [Lojistik Regresyon Kodları](kodlar/lojistik_regresyon.r) 
 + [Cezalandırmalı Regresyon Kodları](kodlar/cezalandirmali_regresyon.r) 
