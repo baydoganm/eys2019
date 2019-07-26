@@ -42,5 +42,8 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 
 Gün 5 - Eğitmenli (Supervised) Öğrenme (Devam) - Eğitmensiz (Unsupervised) Öğrenme. (26 Temmuz 2019)
 		
-## Faydalı linkler
-+ [Makine Öğrenmesi Ders Videoları ve Notları - Veri Defteri](http://www.veridefteri.com/category/ders/)		
+## Faydalı bağlantılar
++ [Makine Öğrenmesi Ders Videoları ve Notları - Veri Defteri](http://www.veridefteri.com/category/ders/)
++ Twitter APIsine bağlanma ve Twitter paketi kullanımı
+	+ [APIye bağlanma](https://towardsdatascience.com/access-data-from-twitter-api-using-r-and-or-python-b8ac342d3efe)
+	+ [Twitter verisi ve kelime bulutu gösterimi](https://mikeyharper.uk/creating-twitter-wordclouds/)
