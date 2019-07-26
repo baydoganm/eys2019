@@ -42,7 +42,7 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 
 Gün 5 - Eğitmenli (Supervised) Öğrenme (Devam) - Eğitmensiz (Unsupervised) Öğrenme. (26 Temmuz 2019)
 + Model Değerlendirme ve Seçimi
-	+ [Caret Paketi](https://topepo.github.io/caret/) [Caret Paketindeki Modeller](https://topepo.github.io/caret/available-models.html)
+	+ [Caret Paketi](https://topepo.github.io/caret/) ve [Caret Paketindeki Modeller](https://topepo.github.io/caret/available-models.html)
 	+ [Örnek Model Seçim Kodları](kodlar/model_karsilastirma_ve_secimi.r)
 + Öbekleme (Kümeleme) Yöntemleri
 	
