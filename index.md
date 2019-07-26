@@ -36,9 +36,6 @@ Gün 4 - Eğitmenli (Supervised) Öğrenme (Devam). (25 Temmuz 2019)
 + Karar Ağaçları [Karar Ağacı Kodları](kodlar/karar_agaci.r)
 + Topluluk Yöntemleri
 	+ Paralel topluluklar
-		+ Rastgele (Rassal) Orman
+		+ Rastgele (Rassal) Orman [Rassal Orman Kodları](kodlar/rassal_orman.r)
 	+ Seri topluluklar
-		+ [Gradyan Artırma Kodları](kodlar/gradyan_artirma.r)
-        
-## Faydalı linkler
-+ [Makine Öğrenmesi Ders Videoları ve Notları](http://www.veridefteri.com/category/ders/)
+		+ Gradyan Artırma
